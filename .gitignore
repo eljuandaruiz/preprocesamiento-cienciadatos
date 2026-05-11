@@ -1,0 +1,18 @@
+# archivos compilados de python
+*.pyc
+*.pyo
+__pycache__/
+
+# editores
+.vscode/
+.idea/
+
+# variables de entorno locales
+.env
+
+# jupyter
+.ipynb_checkpoints/
+
+# archivos del sistema
+.DS_Store
+Thumbs.db
